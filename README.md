@@ -1,6 +1,6 @@
 # Konoha Project
 
-**Objectives:**
+### **Objectives:**
 1. Create dead weights by type
 2. Store cargo location on vessel
 3. Store shift priority
