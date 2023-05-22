@@ -10,7 +10,13 @@
 7. Specify stationary side of vessel
 
 
-### Python
+### Python How-to
+- [x] Dictionary
+- [ ] lists
 
-### Geometry Nodes
+~ bug
+
+### Geometry Nodes How-to
+- [ ] Predecural Nodes
+- [ ] 
 
