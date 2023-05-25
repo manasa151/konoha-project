@@ -6,18 +6,20 @@
 
 ## Create Tank
 ##### User Inputs:
-- Dimensions
-- Liquid Type: Oil,Water & Fuel
-- Shift Priority
-- Current Level (%)
-- Thickness
-- Material type: Plastic, Steel & Aluminum
+- Dimensions (int)
+- Liquid Type: Oil,Water & Fuel 
+- Shift Priority (int)
+- Current Level (%) (int)
+- Thickness (int)
+- Material type: Plastic, Steel & Aluminum (Enum)
 
 #### Methods:
 - `weight()`
 - `volume()`
-- `current_capacity()`
 - `moment()`
+- `unique_name()`
+- `current_capacity()`
+
 
 ## Display tank statistics
 ## Store tank in cargo manifest
