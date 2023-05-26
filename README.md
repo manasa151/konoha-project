@@ -1,4 +1,6 @@
 # Konoha Project
+## 31°29.665'N 130°30.910'E
+---
 
 ### **Objectives:**
 1. Create dead weights by type
