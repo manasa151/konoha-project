@@ -17,6 +17,7 @@
 - Material type: Plastic, Steel & Aluminum (Enum)
 
 #### Methods:
+- `create_tank()`
 - `weight()`
 - `volume()`
 - `moment()`
@@ -25,7 +26,12 @@
 
 
 ## Display tank statistics
+
 ## Store tank in cargo manifest
+#### Methods:
+- `add_tanks()`
+- `edit_tanks()`
+- 
 ## Blender Settings
   ![Ensure your scale is set to 1](./change_units.png)
   
