@@ -1,4 +1,4 @@
-# Konoha Project (31°29.665'N 130°30.910'E)
+# Modern-Day Magellan (31°29.665'N 130°30.910'E)
 <p align="center">
   <img src="https://github.com/manasa151/konoha-project/blob/main/impossible.jpg?raw=true" alt="it all seem impossible, until it is done"/>
 </p>
@@ -6,6 +6,7 @@
  ---
   1. Two birds with one stone: [Circumnavigator](#circumnavigator) & [Konoha Project](#konoha-project)
   1. [Open Source Philosophy](#open-source-philosophy)
+  1. Contact Us
 
 
 ### Konoha Project
@@ -41,5 +42,9 @@ Konoha Project will be:
   - [Code of Conduct](./CODE_OF_CONDUCT.md)
   
 -Insiprations: Marcin Jakubowski
+
+### Contact US
+@ModernDayMagellan
+@ModernDay_Magellan
 
 
